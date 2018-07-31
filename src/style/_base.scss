@@ -1,0 +1,11 @@
+@import 'vars';
+
+body {
+  background: $background-color-right;
+  font-family: sans-serif;
+  color: $font-color;
+}
+
+.error {
+  color: $error;
+}
